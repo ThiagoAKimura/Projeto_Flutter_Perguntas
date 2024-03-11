@@ -1,6 +1,6 @@
 # projeto_perguntas
 
-A new Flutter project.
+Projeto de Flutter criado no curso da Cod3r 
 
 ## Getting Started
 
